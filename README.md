@@ -18,7 +18,7 @@ amd64, arm32v6, arm64v8
 based on ideas of the multiarch team https://github.com/multiarch and inspired by Christy Norman https://github.com/clnperez
 
 # git-repository
-https://github.com/holgerimbery/alpine-multiarch
+https://github.com/holgerimbery/alpine_multiarch
 
 ## License
 MIT (c) 2017 Holger Imbery https://github.com/holgerimbery
