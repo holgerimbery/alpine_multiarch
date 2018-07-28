@@ -15,7 +15,7 @@ amd64, arm32v6, arm64v8
 
 
 # credits
-based on ideas of the multiarch team https://github.com/multiarch and inspired by Christy Norman https://github.com/docker/cli/pull/138
+based on ideas of the multiarch team https://github.com/multiarch and inspired by Christy Norman https://github.com/clnperez
 
 # git-repository
 https://github.com/holgerimbery/alpine-multiarch
