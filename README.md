@@ -1,5 +1,5 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/holgerimbery/alpine.svg)![Travis](https://img.shields.io/travis/holgerimbery/alpine_multiarch.svg)
-## debian-multiarch docker base image
+## alpine-multiarch docker base image
 alpine multiarch docker base image
 
 ## usage 
