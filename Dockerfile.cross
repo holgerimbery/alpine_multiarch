@@ -1,3 +1,5 @@
 FROM __BASEIMAGE_ARCH__/alpine:latest
 ARG ARCH=__BASEIMAGE_ARCH__
 __CROSS_COPY qemu-__QEMU_ARCH__-static /usr/bin/qemu-__QEMU_ARCH__-static
+
+apk add --update nodejs nodejs-npm
