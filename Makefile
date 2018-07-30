@@ -55,7 +55,7 @@ ppc64le:
 		wget https://github.com/multiarch/qemu-user-static/releases/download/v2.12.0/qemu-ppc64le-static
 		chmod 755 qemu-ppc64le-static
 		ls -la
-		docker build --build-arg ARCH=ppc64le --no-cache -f Dockerfile.ppc64le -t $(REPO)/$(IMAGE_NAME):ppc64le.
+		docker build --build-arg ARCH=ppc64le --no-cache -f Dockerfile.ppc64le -t $(REPO)/$(IMAGE_NAME):ppc64le .
   		docker push $(REPO)/$(IMAGE_NAME):ppc64le
 		
 s390x:
